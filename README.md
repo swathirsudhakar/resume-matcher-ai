@@ -84,10 +84,17 @@ Feel free to fork the repo, raise issues, or contribute with pull requests.
 
 
 📧 Contact
-Author: Swathi S![Screenshot 2025-07-02 024430 - Copy](https://github.com/user-attachments/assets/49516f21-5899-434b-84a7-df831b3eac0a)
-![Screenshot 2025-07-02 024430](https://github.com/user-attachments/assets/038ee4ba-5123-4f73-8022-5e34847c13cb)
-
+Author: Swathi S
 GitHub Profile
+
+![Screenshot 2025-07-02 024515](https://github.com/user-attachments/assets/b8473490-2987-4afc-8960-1d39a2b4b981)
+![Screenshot 2025-07-02 024506](https://github.com/user-attachments/assets/2b238720-7f98-4f98-a936-f8e7baf2c4ce)
+![Screenshot 2025-07-02 024457](https://github.com/user-attachments/assets/df40ce66-0765-492f-a3b2-879c51319182)
+![Screenshot 2025-07-02 024430 - Copy](https://github.com/user-attachments/assets/944e9079-dece-4282-b25b-3914c2ff4e18)
+
+
+
+
 
 
 
