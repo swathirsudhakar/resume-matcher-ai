@@ -67,6 +67,28 @@ pip install -r requirements.txt
 # Run the app locally
 streamlit run app.py
 
+🌐 Deployment
+Deployed using Streamlit Cloud
+🔗 Click to Launch Web App (https://resume-matcher-ai-tmgkvcytq28eghxwbxazab.streamlit.app/
+)
+
+
+📢 Notes
+You can generate your OpenAI or OpenRouter API key to enable interview questions.
+
+The voice input feature works via Web Speech API and supports Chrome browser.
+
+
+🤝 Contributing
+Feel free to fork the repo, raise issues, or contribute with pull requests.
+
+
+📧 Contact
+Author: Swathi S![Screenshot 2025-07-02 024430 - Copy](https://github.com/user-attachments/assets/49516f21-5899-434b-84a7-df831b3eac0a)
+![Screenshot 2025-07-02 024430](https://github.com/user-attachments/assets/038ee4ba-5123-4f73-8022-5e34847c13cb)
+
+GitHub Profile
+
 
 
 
