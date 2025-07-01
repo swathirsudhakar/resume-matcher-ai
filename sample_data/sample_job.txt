@@ -1,0 +1,2 @@
+We are looking for a Python Developer with experience in machine learning, data analysis, and web application development. The candidate must be familiar with libraries such as NumPy, pandas, and scikit-learn. Experience with cloud platforms like AWS is a plus
+
